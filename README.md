@@ -1,4 +1,4 @@
-## Hi 👋, I'm bhoomika b</h1>
+## Hi 👋, I'm Bhoomika B</h1>
 <h3>Electronics & Communication Engineer | Learning Full Stack Web Development | Aspiring Software Engineer</h3>
 
 - 🔭 I’m currently learning **full stack development with generative AI**
