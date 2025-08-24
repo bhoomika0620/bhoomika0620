@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **full stack development projects , data science , AI/ML projects**
 
 - 🤝 I’m looking for help with **full stack development,Data Science,AI/ML**
-
-- 💬 Ask me about **Sql, java , python**
   
 - 😄 Pronouns : **She/Her**
   
