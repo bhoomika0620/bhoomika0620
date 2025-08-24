@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Bhoomika B</h1>
 <h3>Electronics & Communication Engineer | Learning Full Stack Web Development | Aspiring Software Engineer</h3>
 
-- 🔭 I’m currently learning **full stack development with generative AI**
+- 🔭 I’m recently graduated my Bachelor's Degree in **Electronics and Communication Engineering** at CMR Institute Of Technology, Bengaluru Under Visvesvaraya Technological University (VTU)
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+- 🌱 I’m currently learning **Full Stack Development with Generative AI**
 
 - 👯 I’m looking to collaborate on **full stack development projects , data science , AI/ML projects**
 
